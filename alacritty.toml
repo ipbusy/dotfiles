@@ -1,0 +1,8 @@
+[font]
+normal = {family = "MesloLGS NF", style= "regular"}
+
+[window]
+opacity = 0.7
+
+[general]
+import = ["~/.config/alacritty/alacritty-theme/themes/dark_pride.toml"]
